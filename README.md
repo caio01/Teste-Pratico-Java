@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Teste realizado para uma vaga nível Júnior/Pleno, a qual buscava validar alguns assuntos básicos à respeito da Linguagem Java.
+Teste realizado para uma vaga nível Júnior/Pleno, a qual buscava validar alguns conhecimentos básicos à respeito da Linguagem Java.
 
 ## Questão
 ![image](https://user-images.githubusercontent.com/49879702/206234089-cee1f267-4733-4491-a74e-e281ca585c5e.png)
